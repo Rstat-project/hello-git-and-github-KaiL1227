@@ -1,6 +1,6 @@
 ---
 title: "自我介紹"
-author: "My name"
+author: 王凱立
 date: "`r Sys.Date()`"
 output: html_document
 ---
@@ -20,12 +20,12 @@ knitr::opts_chunk$set(echo = TRUE)
 
 - 我從那裡來？ 
 
-NULL
+台中市沙鹿區
 
 - 我決定來這裡的動機？
 
-NULL
+學習運用有系統性的思考，藉此來解析心理學。
 
 - 我對這門課的期望？
 
-NULL
+希望能夠學會靈活運用程式語言，來執行大部分的統計工作。
